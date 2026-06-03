@@ -1,6 +1,18 @@
 # Project-590---UCR
 73.5 MW Sugarcane Bagasse based co-generation Energy GRUPO OLHO D’ÁGUA
 
+Grupo Olho D'Água operates three integrated sugarcane biorefinery facilities strategically located in
+the states of Pernambuco, Paraíba and Piauí, Brazil.
+
+Collectively, these facilities process over 4.1 million tons of sugarcane annually, producing sugar,
+ethanol, and renewable electricity. The group employs approximately 8,500 workers during harvest
+season and 4,500 during off-season periods.
+
+Grupo Olho D'Água operates across multiple business segments in the sugarcane value chain. The
+group comprises three integrated industrial units (USICODA, GIASA, and COMVAP) with a
+combined processing capacity of approximately 4.1 million tons of sugarcane annually across 50,000
+hectares of agricultural land, of which 70% is under efficient irrigation systems.
+
 Scale of the project activity Large Scale
 
 Project participants GRUPO OLHO D’ÁGUA (OWNER)
@@ -18,6 +30,55 @@ Sources)
 
 Estimated amount of total GHG emission
 reductions 13,776 CoUs/yr (13,776 tCO2eq/yr) 
+
+____________
+UTE: GIASA II
+
+Country: Brazil
+
+District: Pedras de Fogo
+
+State: Paraíba
+
+Address: Fazenda Ibura, S/N, Zona Rural
+
+Zip Code: 58328-000
+
+Latitude: -7.4040°
+
+Longitude: -35.1160°
+_____________
+UTE: COMVAP
+
+Country: Brazil
+
+District: União
+
+State: Piauí
+
+Address: Fazenda Sítio S/N, Zona Rural
+
+Zip Code: 64120-000
+
+Latitude: -4,5833°
+
+Longitude: -42,8500°
+_______________
+UTE: USICODA (Usina Central Olho D’Água)
+
+Country: Brazil
+
+District: Camutanga
+
+State: Pernambuco
+
+Address: Rodovia PE-082, S/N, Zona Rural
+
+Zip Code: 55930-000
+
+Latitude: -7.3667°
+
+Longitude: -35.2717°
 _____________
 Purpose of the project activity: The primary purpose of this Carbon Offset Unit (CoU) project is to quantify and certify greenhouse
 gas (GHG) emission reductions achieved through renewable energy generation and sustainable
@@ -106,3 +167,4 @@ of September 26, 2024
 ___________
 UTE USICODA – Operating License – L.O. nº 05.24.06.004413-7 (Expiry date: June 27, 2028)
 ____________
+
